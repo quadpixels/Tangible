@@ -1,0 +1,18 @@
+C:\Users\savvy\AppData\Local\Temporary Projects\SurfaceFlashcards\bin\Debug\Resources\icon.png
+C:\Users\savvy\AppData\Local\Temporary Projects\SurfaceFlashcards\bin\Debug\Resources\iconPreview.png
+C:\Users\savvy\AppData\Local\Temporary Projects\SurfaceFlashcards\bin\Debug\SurfaceFlashcards.exe
+C:\Users\savvy\AppData\Local\Temporary Projects\SurfaceFlashcards\bin\Debug\SurfaceFlashcards.pdb
+C:\Users\savvy\AppData\Local\Temporary Projects\SurfaceFlashcards\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\savvy\AppData\Local\Temporary Projects\SurfaceFlashcards\obj\Debug\SurfaceWindow1.baml
+C:\Users\savvy\AppData\Local\Temporary Projects\SurfaceFlashcards\obj\Debug\App.baml
+C:\Users\savvy\AppData\Local\Temporary Projects\SurfaceFlashcards\obj\Debug\SurfaceWindow1.g.cs
+C:\Users\savvy\AppData\Local\Temporary Projects\SurfaceFlashcards\obj\Debug\App.g.cs
+C:\Users\savvy\AppData\Local\Temporary Projects\SurfaceFlashcards\obj\Debug\SurfaceFlashcards_Content.g.cs
+C:\Users\savvy\AppData\Local\Temporary Projects\SurfaceFlashcards\obj\Debug\SurfaceFlashcards_MarkupCompile.cache
+C:\Users\savvy\AppData\Local\Temporary Projects\SurfaceFlashcards\obj\Debug\SurfaceFlashcards.g.resources
+C:\Users\savvy\AppData\Local\Temporary Projects\SurfaceFlashcards\obj\Debug\SurfaceFlashcards.Properties.Resources.resources
+C:\Users\savvy\AppData\Local\Temporary Projects\SurfaceFlashcards\obj\Debug\SurfaceFlashcards.csproj.GenerateResource.Cache
+C:\Users\savvy\AppData\Local\Temporary Projects\SurfaceFlashcards\obj\Debug\SurfaceFlashcards.exe
+C:\Users\savvy\AppData\Local\Temporary Projects\SurfaceFlashcards\obj\Debug\SurfaceFlashcards.pdb
+D:\dev\cs\SurfaceFlashcards\SurfaceFlashcards\obj\Debug\SurfaceFlashcards.exe
+D:\dev\cs\SurfaceFlashcards\SurfaceFlashcards\obj\Debug\SurfaceFlashcards.pdb
