@@ -1,4 +1,5 @@
-Tangible
-========
+CSC4700 P4
 
-All stuff related to tangible user interface.
+A flashcard game on Microsoft Surface.
+
+Version: 0.0001
